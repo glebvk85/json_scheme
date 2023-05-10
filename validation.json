@@ -1,0 +1,7 @@
+{
+  "title":"test",
+  "name":"test",
+  "type": "number",
+  "minimum": 0,
+  "maximum": 100
+}
