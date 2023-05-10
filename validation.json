@@ -1,7 +1,12 @@
 {
-  "title":"test",
-  "name":"test",
-  "type": "number",
-  "minimum": 0,
-  "maximum": 100
+  "name": "test",
+  "type": "object",
+    "properties":
+    {
+      "test":{
+  		"type": "number",
+  		"minimum": 0,
+  		"maximum": 100
+      }
+    }
 }
